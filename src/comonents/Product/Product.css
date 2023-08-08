@@ -14,4 +14,8 @@
     margin-bottom: 10px;
     border: 1px solid lightgray;
     cursor: pointer;
+    margin: 10px;
+}
+.icon-color{
+    color: gold;
 }
